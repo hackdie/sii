@@ -6,10 +6,6 @@
 	<link rel='stylesheet' href="<?php echo base_url(); ?>css/font-awesome.min.css" />
 </head>
 <body>
-	
-	<?php foreach ($alumnos as $row): ?>
-		<h5><?php echo $row->carrera; ?></h5>
-	<?php endforeach; ?>
-	
+	<h1>Prueba <i style=" background-color: white" class="fa fa-camera-retro"></i> fa-camera-retro </h1>
 </body>
 </html>
